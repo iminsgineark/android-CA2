@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="destination_array">
+
+        <item>India</item>
+        <item>Spain</item>
+        <item>Malta</item>
+        <item>Mexico</item>
+        <item>Portugal</item>
+    </string-array>
+</resources>
